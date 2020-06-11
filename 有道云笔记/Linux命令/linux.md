@@ -1,0 +1,8 @@
+# [本机Linux系统是由软件的开关命令行](http://note.youdao.com/noteshare?id=274b49be68ce078fdd53a9ec86e9ee65&sub=EA32A37DAD8D4AB389B0DC1C08E26A49)
+# [linux根目录下各个目录的用途及含义](http://note.youdao.com/noteshare?id=c9133f0ab2e938976ab6916cd4bb32fc&sub=42F043E382C2446FBC2F0F202904B744)
+# [Linux服务器上建立用户并分配权限](http://note.youdao.com/noteshare?id=486f30f281c8e4a624166047640e494b&sub=BD898FAAA4E641E6A6DC3DB42D5BC3FF)
+# [Linux常用命令](http://note.youdao.com/noteshare?id=81a014bd411b03b38893c81f95c694ce&sub=F98293D6AC294D80A22218CCF2C689DF)
+# [Linux命令](http://note.youdao.com/noteshare?id=622737808ca99c48b1afbc815d5f6c17&sub=6CFEFD413C90454AB6BF9743F55D2818)
+# [Centos7.3防火墙配置](http://note.youdao.com/noteshare?id=604827710ba5518629f377e9444bcef9&sub=10E76E32A67042979FEA4E77B5A1DBD5)
+# [开启远程SSH](http://note.youdao.com/noteshare?id=0a1a562cb22dcdcf4dad929edfa61b38&sub=38790B2AB8F24DB8BE19F250BD6DFED5)
+# [Linux服务器命令](http://note.youdao.com/noteshare?id=54e0657667d653616fd7e3c63432608e&sub=8A7C053DB9C44A25AE7BDBF0096EFE32)
